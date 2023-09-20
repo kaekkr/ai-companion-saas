@@ -1,12 +1,6 @@
-# Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023
+# AI Companion
 
-![Copy of Copy of Copy of Fullstack Twitter Clone](https://github.com/AntonioErdeljac/next13-ai-saas/assets/23248726/c47e604a-b50b-4eb0-b420-fda20908f522)
-
-
-
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe | Full Tutorial 2023.
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=ffJ38dBzrlY)
+The AI Companion project is a subscription-based Software as a Service (SaaS) application that allows users to create and interact with virtual companions modeled after famous personalities such as Eminem and Elon Musk. Users can engage in conversations with these AI companions, providing an engaging and personalized experience. The application offers both a dark and light mode for user interface customization and is built using modern web technologies including Next.js, React, Tailwind CSS, Prisma for database management, and Stripe for payment processing, ensuring a seamless and feature-rich user experience.
 
 Features:
 
@@ -36,7 +30,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
+git clone https://github.com/kaekkr/ai-companion-saas.git
 ```
 
 ### Install packages
